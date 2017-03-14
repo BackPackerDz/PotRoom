@@ -425,7 +425,7 @@ public class TalkActivity extends RxAppCompatActivity
 
     private void press2Record() {
         //btnSpeak.setBackgroundResource(R.drawable.button_press_to_say_pressed_bg);
-     //   mTvRecordingHint.setText(R.string.voice_msg_input_hint_speaking);
+        mTvRecordingHint.setText(R.string.voice_msg_input_hint_speaking);
 
         boolean isPermissionsGranted = RxPermissions.getInstance(getApplicationContext())
                 .isGranted(Manifest.permission.WRITE_EXTERNAL_STORAGE) && RxPermissions.getInstance(

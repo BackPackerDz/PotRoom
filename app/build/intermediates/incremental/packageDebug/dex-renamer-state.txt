@@ -1,4 +1,4 @@
-#Tue Mar 14 19:27:24 CET 2017
+#Tue Mar 14 21:26:56 CET 2017
 base.0=/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5d8afd401b91bbc43513a153dde86d971ca81d8
 renamed.1=classes2.dex
 renamed.0=classes.dex
