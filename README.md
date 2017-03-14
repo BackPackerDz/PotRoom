@@ -1,9 +1,10 @@
 # PotRoom
 PotRoom is an Android application that works like a Talkie-walkie
-https://www.youtube.com/embed/P42ZUNE2ljI
 
 [![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/P42ZUNE2ljI/hqdefault.jpg)](https://www.youtube.com/watch?v=P42ZUNE2ljI)
+<br>
 
+https://www.youtube.com/embed/P42ZUNE2ljI
 
 
 
