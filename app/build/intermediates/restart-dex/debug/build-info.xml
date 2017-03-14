@@ -5,29 +5,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="12828889062484"
+    timestamp="13994816434441"
     token="-5638950790824246871"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1098" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="486" />
+        duration="0" />
     <task
         name="verifier"
-        duration="57" />
+        duration="0" />
 
     <artifact
         location="/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="12828889062484"
+        timestamp="13994816434441"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/outputs/apk/app-debug.apk"
