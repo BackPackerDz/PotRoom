@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Pulsator4Droid"><attr format="integer" name="pulse_count"/><attr format="integer" name="pulse_duration"/><attr format="color" name="pulse_color"/><attr format="integer" name="pulse_repeat"/><attr format="float" name="pulse_maxScale"/><attr format="boolean" name="pulse_startFromScratch"/><attr format="enum" name="pulse_interpolator"><enum name="Linear" value="0"/><enum name="Accelerate" value="1"/><enum name="Decelerate" value="2"/><enum name="AccelerateDecelerate" value="3"/></attr></declare-styleable>
+    <string name="app_name">Library</string>
+</resources>

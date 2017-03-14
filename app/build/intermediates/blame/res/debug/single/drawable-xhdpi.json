@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/iv_voice_input_logo.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/iv_voice_input_logo.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_indicator_5.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/voice_indicator_5.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_indicator_2.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/voice_indicator_2.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_info_black_24dp.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_volume_off_black_48dp.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/ic_volume_off_black_48dp.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_mic_white_48dp.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/ic_mic_white_48dp.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_person_black_24dp.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_indicator_3.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/voice_indicator_3.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_indicator_6.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/voice_indicator_6.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_indicator_4.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/voice_indicator_4.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/djihti_photo.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/djihti_photo.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_indicator_1.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/voice_indicator_1.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/voice_indicator_7.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/voice_indicator_7.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_volume_up_black_48dp.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/ic_volume_up_black_48dp.png"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_settings_black_48dp.png",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/drawable-xhdpi/ic_settings_black_48dp.png"
+    }
+]

@@ -1,0 +1,34 @@
+<android.support.v7.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.PreferenceCategory
+        android:title="@string/settings">
+
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:key="beep"
+            android:title="@string/beep_settings_title"
+            android:summary="@string/beep_settings_summary"
+            android:defaultValue="true" />
+
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:key="message_confirmation"
+            android:title="@string/message_settings_title"
+            android:summary="@string/message_settings_summary"
+            android:defaultValue="false" />
+
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:key="automatic_play"
+            android:title="@string/automatic_play_settings_title"
+            android:summary="@string/automatic_play_settings_summary"
+            android:defaultValue="true" />
+
+        <android.support.v7.preference.SeekBarPreference
+            android:title="@string/sound_volume_settings_title"
+            android:summary="@string/sound_volume_settings_summary"
+            android:key="sound_volume"/>
+
+    </android.support.v7.preference.PreferenceCategory>
+
+
+
+</android.support.v7.preference.PreferenceScreen>

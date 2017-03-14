@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/raw/tilt.wav",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/raw/tilt.wav"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/raw/audio_record_ready.wav",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/raw/audio_record_ready.wav"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/raw/audio_record_start.wav",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/raw/audio_record_start.wav"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/raw/audio_record_end.wav",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/raw/audio_record_end.wav"
+    }
+]

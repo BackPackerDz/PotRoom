@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/xml/app_preferences.xml",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/src/main/res/xml/app_preferences.xml"
+    },
+    {
+        "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/xml/filepaths.xml",
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.github.jkwiecien/EasyImage/1.3.1/res/xml/filepaths.xml"
+    }
+]
