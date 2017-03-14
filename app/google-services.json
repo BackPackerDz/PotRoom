@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "655696741202",
+    "firebase_url": "https://talkiewalkie-fbd7f.firebaseio.com",
+    "project_id": "talkiewalkie-fbd7f",
+    "storage_bucket": "talkiewalkie-fbd7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655696741202:android:62e05ec491ae2048",
+        "android_client_info": {
+          "package_name": "com.squalala.talkiewalkie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655696741202-opium14bhic3hb3gd7i8dr0noq7l1vsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1hZ6djktdGhhnjtHY25i9Z0np07lgdbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
