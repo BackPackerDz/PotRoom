@@ -23,8 +23,8 @@ package com.squalala.talkiewalkie;
 public class Constants {
 
 
-    public static final String CHAT_SERVER_URL = "http://192.168.1.104:3000/";
-  //  public static final String CHAT_SERVER_URL = "http://talkiewalkie.squalala.com:3000/";
+//    public static final String CHAT_SERVER_URL = "http://192.168.1.104:3000/";
+    public static final String CHAT_SERVER_URL = "http://talkiewalkie.squalala.com:3000/";
 
     public static final String BUCKET_FIREBASE = "gs://talkiewalkie-fbd7f.appspot.com";
 

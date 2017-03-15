@@ -25,7 +25,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_material.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.1.0/res/layout/preference_material.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.2.0/res/layout/preference_material.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
@@ -45,11 +45,11 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_widget_switch_compat.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/res/layout/preference_widget_switch_compat.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.2.0/res/layout/preference_widget_switch_compat.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_widget_seekbar.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/res/layout/preference_widget_seekbar.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.2.0/res/layout/preference_widget_seekbar.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
@@ -57,7 +57,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_icon.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_tab_icon.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
@@ -73,7 +73,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu_item.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/fragment_opensource.xml",
@@ -81,7 +81,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_snackbar.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
@@ -89,7 +89,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_information_material.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.1.0/res/layout/preference_information_material.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.2.0/res/layout/preference_information_material.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
@@ -97,7 +97,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_category_material.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.1.0/res/layout/preference_category_material.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.2.0/res/layout/preference_category_material.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
@@ -109,11 +109,11 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_widget_switch.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.1.0/res/layout/preference_widget_switch.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.2.0/res/layout/preference_widget_switch.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_navigation_item.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_bottom_navigation_item.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -121,7 +121,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_sheet_dialog.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
@@ -129,7 +129,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_separator.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item_separator.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -145,15 +145,15 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_subheader.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item_subheader.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_information.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/res/layout/preference_information.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.2.0/res/layout/preference_information.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_widget_checkbox.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/res/layout/preference_widget_checkbox.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.2.0/res/layout/preference_widget_checkbox.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
@@ -181,7 +181,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_menu.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
@@ -193,11 +193,11 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_menu_item_action_area.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_menu_item_action_area.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_text.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -205,7 +205,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
@@ -217,7 +217,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar_include.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
@@ -229,7 +229,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_text_input_password_icon.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_text_input_password_icon.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/cell_user.xml",
@@ -237,11 +237,11 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_list_fragment.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/res/layout/preference_list_fragment.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.2.0/res/layout/preference_list_fragment.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_category.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/res/layout/preference_category.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.2.0/res/layout/preference_category.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
@@ -253,7 +253,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_dropdown_material.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.1.0/res/layout/preference_dropdown_material.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.2.0/res/layout/preference_dropdown_material.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
@@ -277,7 +277,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_recyclerview.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/res/layout/preference_recyclerview.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.2.0/res/layout/preference_recyclerview.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -289,7 +289,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_header.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/listheader_opensource.xml",
@@ -313,7 +313,7 @@
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/preference_dialog_edittext.xml",
-        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/res/layout/preference_dialog_edittext.xml"
+        "source": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.2.0/res/layout/preference_dialog_edittext.xml"
     },
     {
         "merged": "/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",

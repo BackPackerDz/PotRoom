@@ -28,6 +28,8 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.crashlytics.android.answers.Answers;
+import com.crashlytics.android.answers.CustomEvent;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.mikepenz.aboutlibraries.Libs;
@@ -78,8 +80,6 @@ public class ListRoomsActivity extends BaseActivity {
         setContentView(R.layout.activity_list_rooms);
         ButterKnife.bind(this);
 
-
-
         viewLoading.setVisibility(View.VISIBLE);
         txtCurrentRooms.setVisibility(View.GONE);
         recyclerView.setVisibility(View.GONE);
@@ -90,6 +90,8 @@ public class ListRoomsActivity extends BaseActivity {
         roomAdapter = new RoomAdapter(rooms, new OnClickRoomListener() {
             @Override
             public void onClickRoom(Room room) {
+                Answers.getInstance().logCustom(new CustomEvent("Join Room")
+                        .putCustomAttribute("room", room.getRoomName()));
                 Intent intent = new Intent(ListRoomsActivity.this, JoinActivity.class);
                 intent.putExtra(JoinActivity.KEY_ROOM, room.getRoomName());
                 startActivity(intent);
@@ -102,6 +104,8 @@ public class ListRoomsActivity extends BaseActivity {
 
     @OnClick(R.id.iconAbout)
     void navigateToAbout() {
+        Answers.getInstance().logCustom(new CustomEvent("About"));
+
         new LibsBuilder()
                 .withAutoDetect(true)
                 .withLicenseShown(true)
@@ -176,6 +180,7 @@ public class ListRoomsActivity extends BaseActivity {
     };
 
     private void navigateToPlayStore() {
+        Answers.getInstance().logCustom(new CustomEvent("PlayStore"));
         final String appPackageName = getPackageName(); // getPackageName() from Context or Activity object
         try {
             startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
@@ -185,6 +190,7 @@ public class ListRoomsActivity extends BaseActivity {
     }
 
     private void navigateToGitHub() {
+        Answers.getInstance().logCustom(new CustomEvent("Github"));
         String url = "https://github.com/BackPackerDz/PotRoom";
         Intent i = new Intent(Intent.ACTION_VIEW);
         i.setData(Uri.parse(url));

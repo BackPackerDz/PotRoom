@@ -1,7 +1,4 @@
-#Tue Mar 14 21:26:56 CET 2017
-base.0=/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5d8afd401b91bbc43513a153dde86d971ca81d8
-renamed.1=classes2.dex
+#Wed Mar 15 06:37:42 CET 2017
+base.0=/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_439d0cd16b07590655ada566ee9fcc56801d21c4/classes.dex
-base.1=/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_439d0cd16b07590655ada566ee9fcc56801d21c4
-file.0=/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5d8afd401b91bbc43513a153dde86d971ca81d8/classes.dex
+file.0=/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

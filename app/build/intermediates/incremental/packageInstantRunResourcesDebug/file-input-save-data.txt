@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 14 21:26:29 CET 2017
+#Wed Mar 15 06:32:39 CET 2017
 210.set=ANDROID_RESOURCE
 282.file=/home/faycal/AndroidStudioProjects/TalkieWalkie2/app/build/intermediates/assets/debug/fonts/Roboto-Regular.ttf
 14.set=ANDROID_RESOURCE
